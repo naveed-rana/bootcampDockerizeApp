@@ -1,3 +1,2 @@
 naveed file
-sdaffsda
-sdfa
+from master
